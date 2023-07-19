@@ -1,2 +1,2 @@
-<h3>Portfolio website of the team 🐚</h3>  <h4>Our team 🪐</h4><br>Mohamed Izzath<br>Naresh Vijay<br>Mohammed Sureif<br>Mohamed Ashfak<br>Pranavan Sundaralingam<br>Chandrasegar
+<h1>Portfolio website of the team 🐚</h1>  <h3>Our team 🪐</h3>Mohamed Izzath<br>Naresh Vijay<br>Mohammed Sureif<br>Mohamed Ashfak<br>Pranavan Sundaralingam<br>Chandrasegar
 
